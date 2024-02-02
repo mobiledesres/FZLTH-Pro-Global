@@ -1,6 +1,9 @@
-# 方正兰亭黑Pro Global字体下载
+# 方正兰亭黑 Pro Global 字体下载
+
+**点击进入 [`fonts`](./fonts) 目录下载。**
 
 本字体分为8个字重：
+
 * ExtraLight
 * Light
 * Regular
